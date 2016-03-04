@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-tttttt
-dfsdfsdfsssssdsdsd
-jhvgjhg
-=======
-tttttt
->>>>>>> origin
+new test
