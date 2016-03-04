@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tttttt
 dfsdfsdfsssssdsdsd
 jhvgjhg
+=======
+tttttt
+>>>>>>> origin
